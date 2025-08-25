@@ -64,5 +64,3 @@ except KeyboardInterrupt:
     client.disconnect()
 
 
-
-#& "C:\Program Files\mosquitto\mosquitto_sub.exe" -h test.mosquitto.org -t pc/sicaklik -v
