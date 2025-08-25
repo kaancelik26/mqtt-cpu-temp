@@ -10,4 +10,3 @@ Python ile yazılmıştır ve MQTT protokolü kullanır. Node-RED akışı ile s
 - MQTT broker’a sıcaklık bilgisini gönderir  
 - Node-RED ile veriler görselleştirilebilir  
 - Açık kaynak ve özelleştirilebilir yapı  
-
